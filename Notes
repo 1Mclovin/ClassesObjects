@@ -1,0 +1,21 @@
+Lets understand what a class is.
+
+Think of this
+
+A class is like a blue print of something it could be a blueprint of an animal.
+we are modeling a real world entity by using a class
+
+we can say for our class we want to create the blueprint of a bird.
+
+what do we know about birds?
+some birds can fly
+birds have breeds
+birds have names (if you wanna give it a name)
+birds have eyes
+birds have legs
+birds have an age
+
+these attributes would be called instances.^^^
+
+now we can create a class.
+
